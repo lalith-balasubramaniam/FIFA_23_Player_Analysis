@@ -15,7 +15,7 @@ This project analyzes player and team attributes in FIFA 23 to uncover patterns 
 - **Description**: This dataset includes various player attributes like position, overall rating, potential, market value, and additional metadata.
 
 ## Files
-- **`Lalithcode.ipynb`**: Jupyter Notebook containing the code for data analysis, regression modeling, and clustering.
+- **`Fifa23_analysis.ipynb`**: Jupyter Notebook containing the code for data analysis, regression modeling, and clustering.
 - **`README.md`**: Project description and setup instructions.
 - **`requirements.txt`**: List of dependencies required to run the project.
 
@@ -28,7 +28,7 @@ This project analyzes player and team attributes in FIFA 23 to uncover patterns 
      ```
 
 2. **Run the Notebook**:
-   - Open `Lalithcode.ipynb` in Jupyter Notebook or JupyterLab.
+   - Open `Fifa23_analysis.ipynb` in Jupyter Notebook or JupyterLab.
    - Follow along with the code cells to reproduce the analysis and models.
 
 3. **Data Source**:
