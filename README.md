@@ -40,6 +40,9 @@ This project analyzes player and team attributes in FIFA 23 to uncover patterns 
 - **Clustering Analysis**: Segmenting players into clusters based on attributes to identify different playing styles.
 - **World Cup Predictions**: Using player data to identify potential top teams for the World Cup.
 
+  ![Unsupervised](Unsupervised.png)
+
+
 ## Requirements
 - Python 3.x
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`
